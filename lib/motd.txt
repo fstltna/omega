@@ -1,0 +1,16 @@
+                                    *******
+                                 *****   *****
+                              *****         *****
+                             ****   welcome   ****
+                            ***       t o       ***
+                             ***     omega     ***
+                              ****           ****
+                                 ****    ****
+                              *    **    **    *
+                               *****      *****
+
+            omega version 0.90-pa8 is copyright (C) 1987,1988,1989 by:
+                             Laurence R. Brothers
+                       and is licensed under the LGPL.
+            Get updates to this BBS door at https://SynchronetBBS.org
+
